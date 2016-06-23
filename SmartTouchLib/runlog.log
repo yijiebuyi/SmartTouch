@@ -1,0 +1,3330 @@
+Added file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for sccase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\AndroidProject\SmartTouchLib\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 28 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+    [javac] ע: ĳЩ�����ļ�ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\sccase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+error: device not found
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for sccase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\sccase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1084 KB/s (35523 bytes in 0.032s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for sccase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 17 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+    [javac] ע: D:\AndroidProject\SmartTouchLib\src\com\za\cs\ucode\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\sccase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1586 KB/s (38991 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1269 KB/s (39009 bytes in 0.030s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1906 KB/s (39040 bytes in 0.020s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1528 KB/s (39123 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1469 KB/s (39134 bytes in 0.026s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1467 KB/s (39084 bytes in 0.026s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1362 KB/s (39065 bytes in 0.028s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1412 KB/s (39065 bytes in 0.027s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2007 KB/s (39065 bytes in 0.019s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2119 KB/s (39068 bytes in 0.018s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1415 KB/s (39133 bytes in 0.027s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1414 KB/s (39116 bytes in 0.027s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1736 KB/s (39116 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1736 KB/s (39117 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1091 KB/s (39117 bytes in 0.035s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2116 KB/s (39018 bytes in 0.018s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2005 KB/s (39018 bytes in 0.019s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1831 KB/s (39385 bytes in 0.021s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2136 KB/s (39391 bytes in 0.018s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2262 KB/s (39391 bytes in 0.017s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2406 KB/s (39428 bytes in 0.016s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1480 KB/s (39428 bytes in 0.026s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1433 KB/s (39637 bytes in 0.027s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1937 KB/s (39675 bytes in 0.020s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 12 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1337 KB/s (42471 bytes in 0.031s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1660 KB/s (42524 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1123 KB/s (42558 bytes in 0.037s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1889 KB/s (42565 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1732 KB/s (42574 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1664 KB/s (42617 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 10 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1435 KB/s (44104 bytes in 0.030s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 10 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1644 KB/s (45478 bytes in 0.027s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1853 KB/s (45542 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1414 KB/s (46337 bytes in 0.032s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1415 KB/s (46384 bytes in 0.032s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2265 KB/s (46396 bytes in 0.020s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2059 KB/s (46396 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2059 KB/s (46396 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1977 KB/s (46579 bytes in 0.023s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1977 KB/s (46579 bytes in 0.023s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 8 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1495 KB/s (47472 bytes in 0.031s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1931 KB/s (47464 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2106 KB/s (47464 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+759 KB/s (47417 bytes in 0.061s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1852 KB/s (47417 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2013 KB/s (47434 bytes in 0.023s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1853 KB/s (47450 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 5 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1785 KB/s (47529 bytes in 0.026s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1858 KB/s (47577 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1937 KB/s (47614 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1860 KB/s (47627 bytes in 0.025s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1408 KB/s (47597 bytes in 0.033s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1603 KB/s (47611 bytes in 0.029s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1937 KB/s (47618 bytes in 0.024s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1608 KB/s (47773 bytes in 0.029s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 5 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 8 seconds
+2062 KB/s (48581 bytes in 0.023s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2260 KB/s (48615 bytes in 0.021s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2374 KB/s (48633 bytes in 0.020s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2374 KB/s (48633 bytes in 0.020s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2499 KB/s (48633 bytes in 0.019s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+2170 KB/s (48902 bytes in 0.022s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1543 KB/s (49007 bytes in 0.031s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1840 KB/s (49016 bytes in 0.026s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2292 KB/s (49291 bytes in 0.021s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+2292 KB/s (49301 bytes in 0.021s)
+Updated file D:\AndroidProject\SmartTouchLib\build.xml
+Buildfile: D:\AndroidProject\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.0.2
+ [checkenv] Installed at D:\soft\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 22.0.1
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\AndroidProject\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\AndroidProject\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\AndroidProject\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\AndroidProject\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1422 KB/s (49530 bytes in 0.034s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+BUILD FAILED
+E:\zuoan\smart_lua\SmartTouchLib\build.xml:90: Cannot find D:\soft\adt-bundle-windows-x86_64-20140702\sdk\tools\ant\uibuild.xml imported from E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+Total time: 0 seconds
+cannot stat 'E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 38 source files to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+    [javac] ע: ĳЩ�����ļ�ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1874 KB/s (40318 bytes in 0.021s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2072 KB/s (40321 bytes in 0.019s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2463 KB/s (40366 bytes in 0.016s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2628 KB/s (40379 bytes in 0.015s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+2176 KB/s (40126 bytes in 0.018s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2612 KB/s (40131 bytes in 0.015s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1955 KB/s (40047 bytes in 0.020s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1867 KB/s (40154 bytes in 0.021s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2452 KB/s (40181 bytes in 0.016s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2617 KB/s (40201 bytes in 0.015s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2163 KB/s (39875 bytes in 0.018s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2290 KB/s (39875 bytes in 0.017s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1442 KB/s (39898 bytes in 0.027s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2991 KB/s (39823 bytes in 0.013s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2991 KB/s (39822 bytes in 0.013s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2287 KB/s (39822 bytes in 0.017s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+�������ļ���
+Buildfile: E:\zuoan\smart_lua\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.1.6
+ [checkenv] Installed at D:\android-sdks
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\zuoan\smart_lua\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\zuoan\smart_lua\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\zuoan\smart_lua\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1851 KB/s (39822 bytes in 0.021s)

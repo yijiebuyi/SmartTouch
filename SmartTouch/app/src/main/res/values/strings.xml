@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartTouch</string>
+    <string name="input_name">脚本输入法</string>
+
+    <string name="script_lib_connecting_txt">欢迎使用lua自动化脚本\n\n脚本库正在连接中...</string>
+    <string name="script_lib_connected_txt">欢迎使用lua自动化脚本\n\n脚本库连接成功，列表中选择需要执行的脚本，按音量+键执行，按音量-停止执行</string>
+
+    <string name="script_execute">按音量+键执行%s脚本，按音量-停止执行</string>
+</resources>
