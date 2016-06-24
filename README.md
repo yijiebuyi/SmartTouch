@@ -1,5 +1,5 @@
 # SmartTouch
-##SmartTouch是一款基于UiAutomator框架，自动模拟用户手势操作的app，类似于触摸精灵，按键精灵。
+##SmartTouch是一款基于UiAutomator框架，自动模拟用户手势操作的app，类似于触摸精灵，按键精灵。支持android 4.4以上
 
 SmartTouch是一个android工程，而SmartTouchLib是一个java工程。SmartTouchLib是脚本的核心运行库，它封装了UiAutomator的操作（如模拟back键，点击某个地方，打开最近的应用），上层的开发者可以编写lua脚本执行相应的操作，而lua的方法库定义在luaScript类中，具体的实现是在luaScriptImpl类中。更多的lua语音的学习参照![luajava](https://github.com/jasonsantos/luajava)。SmartTouchLib是一个本地进程，SmartTouch应通过socket和它进行通信。ps：UiAutomator框架需运行在android 4.4以上的版本。
 
