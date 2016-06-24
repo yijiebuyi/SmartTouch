@@ -17,6 +17,8 @@ lua 执行脚本
 ![](https://raw.githubusercontent.com/yijiebuyi/SmartTouch/master/lua_script.png)
 
 
+
+
 执行效果 ps：gif文件有点大，最好下载下来本地查看
 
 ![](https://raw.githubusercontent.com/yijiebuyi/SmartTouch/master/preview.gif)
