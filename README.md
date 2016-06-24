@@ -13,9 +13,12 @@ SmartTouch是一个android工程，而SmartTouchLib是一个java工程。SmartTo
 3.SmartTouch的assets目录下面libluajava.so，lualibs.lua，test.lua分别是luajava的so库，lua脚本的函数库以及脚本lua文件，test.lua的函数必须来自于lualibs.lua中，否则会导致执行失败。
 
 lua 执行脚本
+
 ![](https://raw.githubusercontent.com/yijiebuyi/SmartTouch/master/lua_script.png)
 
+
 执行效果 ps：gif文件有点大，最好下载下来本地查看
+
 ![](https://raw.githubusercontent.com/yijiebuyi/SmartTouch/master/preview.gif)
 
 
