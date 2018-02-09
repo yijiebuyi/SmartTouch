@@ -6,7 +6,7 @@ import com.cs.CaseMain;
 import com.cs.util.ULog;
 
 public class luaScriptImpl implements luaScript, LuaExecListener {
-	private static int EXEC_TIMEOUT = 200;
+	private static int EXEC_TIMEOUT = 45;
 	
 	public luaScriptImpl() {
 		

@@ -23,7 +23,7 @@ public class CaseMain extends UiAutomatorTestCase {
 	private String mLuaScPath;
 	
 	public static void main(String[] args) {
-		new UiAutomatorHelper("stcase", "com.cs.CaseMain", "", "7");
+		new UiAutomatorHelper("stcase", "com.cs.CaseMain", "stcase", "1");
 	}
 	
 	@Override

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SmartTouch/app/src/main/java"/>
+	<classpathentry kind="src" path="SmartTouchLib/src"/>
+	<classpathentry kind="lib" path="SmartTouch/app/libs/jutf7-1.0.0.jar"/>
+	<classpathentry kind="lib" path="SmartTouch/app/src/main/assets/stcase.jar"/>
+	<classpathentry kind="lib" path="SmartTouch/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="SmartTouchLib/libs/android.jar"/>
+	<classpathentry kind="lib" path="SmartTouchLib/libs/jutf7-1.0.0.jar"/>
+	<classpathentry kind="lib" path="SmartTouchLib/libs/uiautomator.jar"/>
+	<classpathentry kind="lib" path="F:/smartTouch/SmartTouch/SmartTouch/app/src/main/assets/stcase.jar"/>
+	<classpathentry kind="output" path="SmartTouchLib/bin/classes"/>
+</classpath>

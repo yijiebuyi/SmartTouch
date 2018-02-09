@@ -3328,3 +3328,386 @@ build:
 BUILD SUCCESSFUL
 Total time: 3 seconds
 1851 KB/s (39822 bytes in 0.021s)
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: failed to get feature set: cannot connect to daemon
+adb server version (31) doesn't match this client (39); killing...
+could not read ok from ADB Server
+* failed to start daemon
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: failed to get feature set: cannot connect to daemon
+adb server version (31) doesn't match this client (39); killing...
+could not read ok from ADB Server
+* failed to start daemon
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: failed to get feature set: no devices/emulators found
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar': No such file or directory
+'android' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n stcase -t 7 -p "F:\smartTouch\SmartTouch\SmartTouchLib""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n stcase -t 7 -p "F:\smartTouch\SmartTouch\SmartTouchLib""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+Error: Target id is not valid. Use 'android.bat list targets' to get the target ids.
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+'ant' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 38 source files to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: ĳЩ�����ļ�ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 9 seconds
+
+       Usage:
+       android [global options] create uitest-project [action options]
+       Global options:
+  -s --silent     : Silent mode, shows errors only.
+  -v --verbose    : Verbose mode, shows errors, warnings and all messages.
+     --clear-cache: Clear the SDK Manager repository manifest cache.
+  -h --help       : Help on a specific command.
+
+                                Action "create uitest-project":
+  Creates a new UI test project.
+Options:
+  -n --name    : Project name.
+  -p --path    : The new project's directory. [required]
+  -t --target  : Target ID of the new project. [required]
+Error: Oops, it looks like you didn't provide an argument for '-n'.
+'-t' was found instead.
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+       Usage:
+       android [global options] create uitest-project [action options]
+       Global options:
+  -s --silent     : Silent mode, shows errors only.
+  -v --verbose    : Verbose mode, shows errors, warnings and all messages.
+     --clear-cache: Clear the SDK Manager repository manifest cache.
+  -h --help       : Help on a specific command.
+
+                                Action "create uitest-project":
+  Creates a new UI test project.
+Options:
+  -n --name    : Project name.
+  -p --path    : The new project's directory. [required]
+  -t --target  : Target ID of the new project. [required]
+Error: Oops, it looks like you didn't provide an argument for '-n'.
+'-t' was found instead.
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\.jar': No such file or directory
+
+       Usage:
+       android [global options] create uitest-project [action options]
+       Global options:
+  -s --silent     : Silent mode, shows errors only.
+  -v --verbose    : Verbose mode, shows errors, warnings and all messages.
+     --clear-cache: Clear the SDK Manager repository manifest cache.
+  -h --help       : Help on a specific command.
+
+                                Action "create uitest-project":
+  Creates a new UI test project.
+Options:
+  -n --name    : Project name.
+  -p --path    : The new project's directory. [required]
+  -t --target  : Target ID of the new project. [required]
+Error: Oops, it looks like you didn't provide an argument for '-n'.
+'-t' was found instead.
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: cannot stat 'F:\smartTouch\SmartTouch\SmartTouchLib\bin\.jar': No such file or directory
+
+       Usage:
+       android [global options] create uitest-project [action options]
+       Global options:
+  -s --silent     : Silent mode, shows errors only.
+  -v --verbose    : Verbose mode, shows errors, warnings and all messages.
+     --clear-cache: Clear the SDK Manager repository manifest cache.
+  -h --help       : Help on a specific command.
+
+                                Action "create uitest-project":
+  Creates a new UI test project.
+Options:
+  -n --name    : Project name.
+  -p --path    : The new project's directory. [required]
+  -t --target  : Target ID of the new project. [required]
+Error: Oops, it looks like you didn't provide an argument for '-n'.
+'-t' was found instead.
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+[100%] /data/local/tmp/stcase.jar
+F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar: 1 file pushed. 0.6 MB/s (53444 bytes in 0.089s)
