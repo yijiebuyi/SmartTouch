@@ -3757,3 +3757,334 @@ BUILD SUCCESSFUL
 Total time: 2 seconds
 [100%] /data/local/tmp/stcase.jar
 F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar: 1 file pushed. 0.4 MB/s (39820 bytes in 0.090s)
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+adb server version (31) doesn't match this client (39); killing...
+* daemon started successfully
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found
+Updated file F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+Buildfile: F:\smartTouch\SmartTouch\SmartTouchLib\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\Users\Administrator\AppData\Local\Android\Sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 27.0.3
+     [echo] Resolving Build Target for stcase...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\smartTouch\SmartTouch\SmartTouchLib\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\smartTouch\SmartTouch\SmartTouchLib\bin\stcase.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb: error: failed to get feature set: no devices/emulators found

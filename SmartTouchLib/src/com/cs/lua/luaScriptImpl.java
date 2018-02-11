@@ -6,7 +6,7 @@ import com.cs.CaseMain;
 import com.cs.util.ULog;
 
 public class luaScriptImpl implements luaScript, LuaExecListener {
-	private static int EXEC_TIMEOUT = 35;
+	private static int EXEC_TIMEOUT = 20;
 	
 	public luaScriptImpl() {
 		
@@ -108,7 +108,7 @@ public class luaScriptImpl implements luaScript, LuaExecListener {
 		}
 		
 		CaseHelper.clickByText(name);
-		CaseHelper.sleep(EXEC_TIMEOUT);
+		//CaseHelper.sleep(EXEC_TIMEOUT);
 	}
 
 	@Override

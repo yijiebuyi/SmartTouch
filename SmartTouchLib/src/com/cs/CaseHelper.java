@@ -91,7 +91,10 @@ public class CaseHelper {
 		ULog.i("method:============clickxy");
 		try {
 			ULog.i("click:  x=" + x + "   y=" + y);
-			UiDevice.getInstance().click(x, y);
+			for (int i = 0; i < 700; i++) {
+				UiDevice.getInstance().click(x, y);
+				SystemClock.sleep(10);
+			}
 		} catch (Exception e) {
 			ULog.i("click ex:" + e.getMessage());
 		}
